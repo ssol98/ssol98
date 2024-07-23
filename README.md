@@ -48,7 +48,7 @@
 
 <div align="center">
   
-### 📊 Most
+### 📊 stats
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SORUzzang&layout=compact)
   
