@@ -37,8 +37,17 @@
   
 </div>
 
-<br><br><br><br><br>
+<br><br>
 
+<div align="center">
+
+### 📊 stats
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SORUzzang&layout=compact)
+  
+</div>
+
+<br><br><br><br><br>
 
 <div>
   
@@ -49,17 +58,5 @@
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-</div>
-
-
-
-<br><br>
-
-<div align="center">
-
-### 📊 stats
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SORUzzang&layout=compact)
-  
 </div>
 
