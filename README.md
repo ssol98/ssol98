@@ -39,7 +39,7 @@
 
 <br><br>
 
-<div>
+<div align-items="center">
   
 ### 📧 Contact
   
