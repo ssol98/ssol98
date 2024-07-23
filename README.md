@@ -6,7 +6,7 @@
 
 <div align="center">
   
-## 📋 Tech Stack
+### 📋 Tech Stack
   
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -26,7 +26,7 @@
 
 <div align="center">
   
-## 🔨 Tools
+### 🔨 Tools
   
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -37,7 +37,7 @@
 
 <div align="center">
   
-## 📧 Contact
+### 📧 Contact
   
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
@@ -48,7 +48,7 @@
 
 <div align="center">
   
-## 📊 Most
+### 📊 Most
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SORUzzang&layout=compact)
   
