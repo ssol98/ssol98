@@ -1,5 +1,7 @@
 <div align="center" >
+ 
  ![SORU GIF 타이틀 정적 오나](https://github.com/user-attachments/assets/32823f5f-3b64-4722-be21-c7a34f64ba65)
+ 
 </div>
 
 <div align="center">
