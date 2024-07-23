@@ -39,19 +39,37 @@
 
 <br><br>
 
+### 📧 Contact
+
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   
-### 📧 Contact
   
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 : Portfolio <br>
+
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+ 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
 : SORU#7777 <br>
+
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+ 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;
 : leejinkyu980711@gmail.com <br>
+
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+ 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 : This profile
+
 </div>
+
 
 <br><br>
 
