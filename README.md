@@ -39,7 +39,7 @@
 
 <br><br>
 
-<div align-items="center">
+<div style="vertical-align: middle;">
   
 ### 📧 Contact
   
