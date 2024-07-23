@@ -39,7 +39,7 @@
 
 <br><br>
 
-<div style="vertical-align: middle;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   
 ### 📧 Contact
   
