@@ -39,30 +39,21 @@
 
 <br><br>
 
-<div align="center">
-
-### 📊 stats
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SORUzzang&layout=compact)
-  
-</div>
 
 <br><br><br><br><br>
 
 <div>
   
 ### 📧 Contact
-<a href="https://www.notion.so/9111d2dd6e7e46a0bd797b54ce000e78?pvs=4">
+<a href="https://www.notion.so/9111d2dd6e7e46a0bd797b54ce000e78">
  
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
 </a>
 
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
-
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;
+leejinkyu980711@gmail.com
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
