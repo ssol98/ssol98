@@ -45,7 +45,7 @@
 <div>
   
 ### 📧 Contact
-<a href="https://www.notion.so/9111d2dd6e7e46a0bd797b54ce000e78">
+<a href="https://thankful-pyrite-405.notion.site/9111d2dd6e7e46a0bd797b54ce000e78?pvs=4">
  
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
